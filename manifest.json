@@ -14,7 +14,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "https://nuagedigite.ch",
   "display": "standalone",
   "background_color": "#FCD750",
   "theme_color": "#2D2C4C"
