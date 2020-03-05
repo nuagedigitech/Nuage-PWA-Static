@@ -1088,7 +1088,7 @@ figcaption {
   color: #2d2c4c;
 }
 
-@media (max-width: 991px) {
+@media screen and (max-width: 991px) {
   h1 {
     font-size: 4.236rem;
     line-height: 1.1em;
@@ -1517,7 +1517,7 @@ figcaption {
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   h1 {
     font-size: 3.659em;
     line-height: 1.1em;
@@ -1900,7 +1900,7 @@ figcaption {
   }
 }
 
-@media (max-width: 479px) {
+@media screen and (max-width: 479px) {
   h1 {
     font-size: 2.618rem;
   }
